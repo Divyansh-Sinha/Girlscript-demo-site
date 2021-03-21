@@ -1,0 +1,14 @@
+#logoImage {
+  width: 50vh;
+  height: 100%;
+}
+
+.intro-lead-in {
+  color: coral;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-evenly;
+  flex: 1;
+}

@@ -1,0 +1,15 @@
+#teamHeading {
+  margin-bottom: 100px;
+}
+
+.role {
+  margin: 10px;
+}
+
+h3 {
+  padding: 20px;
+}
+
+#team {
+  background: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
