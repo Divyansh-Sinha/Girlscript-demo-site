@@ -21,3 +21,18 @@
 #categories {
   color: white;
 }
+
+@media (max-width: 500px) {
+  .catHeading {
+    font-size: 12px;
+  }
+
+  .page-section {
+    display: block;
+    width: 100%;
+  }
+
+  .category1 {
+    width: 100%;
+  }
+}
